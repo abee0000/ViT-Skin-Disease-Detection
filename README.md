@@ -1,4 +1,4 @@
-<h1 align="center">🧠 Skin Disease Detection Based on Vision Transformer (ViT)</h1>
+<h1 align="center">Skin Disease Detection Based on Vision Transformer (ViT)</h1>
 
 <p align="center">
   <strong>AI-Powered Dermatology: Leveraging Vision Transformers for Accurate Skin Disease Diagnosis</strong>
@@ -79,24 +79,18 @@ Through extensive experimentation, we developed, trained, and deployed a Vision 
 ## Visual Results
 
 ### Accuracy vs Loss
-![Accuracy and Loss Curve](./results/accuracy_loss_curves.png)
+![Accuracy and Loss Curve]![accuracy](https://github.com/user-attachments/assets/6dea8004-a356-4dfb-9221-b1e9940a98d6)
+
 
 ### Confusion Matrix
-![Confusion Matrix](./results/confusion_matrix.png)
+![Confusion Matrix]![matrix](https://github.com/user-attachments/assets/8dde5f17-58e0-4d9a-af6b-3b8b66147846)
+
 
 ### ROC Curves
-![ROC Curve](./results/roc_curve.png)
+![ROC Curve]![roc](https://github.com/user-attachments/assets/87069875-74c4-409d-9041-164d2ca323c0)
+
 
 ---
 
-## How to Run the Application
-
-### 1️Clone the Repository
-```bash
-git clone https://github.com/<your-username>/skin-disease-detection-vit.git
-cd skin-disease-detection-vit
-pip install -r requirements.txt
-cd app
-python main.py
 
 
