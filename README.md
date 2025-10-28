@@ -79,15 +79,15 @@ Through extensive experimentation, we developed, trained, and deployed a Vision 
 ## Visual Results
 
 ### Accuracy vs Loss
-![Accuracy and Loss Curve]![accuracy](https://github.com/user-attachments/assets/6dea8004-a356-4dfb-9221-b1e9940a98d6)
+![Accuracy and Loss Curve](https://github.com/user-attachments/assets/6dea8004-a356-4dfb-9221-b1e9940a98d6)
 
 
 ### Confusion Matrix
-![Confusion Matrix]![matrix](https://github.com/user-attachments/assets/8dde5f17-58e0-4d9a-af6b-3b8b66147846)
+![Confusion Matrix](https://github.com/user-attachments/assets/8dde5f17-58e0-4d9a-af6b-3b8b66147846)
 
 
 ### ROC Curves
-![ROC Curve]![roc](https://github.com/user-attachments/assets/87069875-74c4-409d-9041-164d2ca323c0)
+![ROC Curve](https://github.com/user-attachments/assets/87069875-74c4-409d-9041-164d2ca323c0)
 
 
 ---
